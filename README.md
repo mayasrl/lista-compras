@@ -1,2 +1,2 @@
-# lista-compras
+# Quicklist
 Página de lista de compras desenvolvida no curso de Fullstack da Rocketseat
