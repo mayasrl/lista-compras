@@ -26,8 +26,6 @@ Uma **lista de compras** interativa e responsiva, desenvolvida durante o curso *
 
 ---
 
-## Screenshots
-
   <img src="https://github.com/user-attachments/assets/03127d88-a364-407d-a25d-f7df1ee1ca4d" alt="Quicklist Screenshot" />
 
 ---
